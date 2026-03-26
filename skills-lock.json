@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "skills": {
+    "agent-browser": {
+      "source": "vercel-labs/agent-browser",
+      "sourceType": "github",
+      "computedHash": "1fdc3ae39490000d36b242168c64db00c1654fe1a0e45a1b12e93b38cc21e32c"
+    },
+    "bb-browser": {
+      "source": "epiral/bb-browser",
+      "sourceType": "github",
+      "computedHash": "898fea89079a41d288ac2aaf509d987af2ccc860021686166d2641b7de19fc57"
+    },
+    "openclaw-backup": {
+      "source": "theagentservice/skills",
+      "sourceType": "github",
+      "computedHash": "635f624ccf60692ff097408fd7486362e621457da6f5eedd0d0c51a6b2dfd603"
+    },
+    "self-improving-agent": {
+      "source": "charon-fan/agent-playbook",
+      "sourceType": "github",
+      "computedHash": "5b95ba0530d21f79cf01f7d593463812e7702b1358dd89d259b8073cf6012349"
+    },
+    "skill-vetter": {
+      "source": "useai-pro/openclaw-skills-security",
+      "sourceType": "github",
+      "computedHash": "5172ac6d437a5f41b5fa8be0def458a48b0e73c6b901c3f4e5e792434c4dc133"
+    }
+  }
+}
