@@ -1,0 +1,456 @@
+{
+  "all_products": [
+    {
+      "name": "blink plus plan with monthly auto-renewal",
+      "rank": "#1",
+      "price": "HKD 93.81",
+      "rating": "4.4",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=blinkplusplanwithmonthlyautorenewal",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Apple EarPods 耳机带 USB-C 插头,有线耳塞内置遥控器控制音乐、电话通话和音量",
+      "rank": "#2",
+      "price": "另有 17 种版本，价格 HKD 129.33 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AppleEarPodsUSBC",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Apple AirPods 4 无线耳塞,蓝牙耳机,个性化空间音频,防汗防水,USB-C 充电盒,H2 芯片,电池寿命长达 30 小时,轻松安装 iPhone",
+      "rank": "#3",
+      "price": "另有 6 种版本，价格 HKD 740.86 起",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AppleAirPods4USBCH230iPhone",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "AirTag 第二代追踪器",
+      "rank": "#4",
+      "price": "另有 3 种版本，价格 HKD 226.90 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AirTag",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Apple AirPods Pro 3 无线耳塞,主动降噪,实时翻译,心率感应,助听功能,蓝牙耳机,空间音频,高保真声音,USB-C 充电",
+      "rank": "#5",
+      "price": "另有 81 种版本，价格 HKD 1,432.43 起",
+      "rating": "4.4",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AppleAirPodsPro3USBC",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream over 1.8 million movies and…",
+      "rank": "#6",
+      "price": "1 个优惠，价格 HKD 195.52 起",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AmazonFireTVStick4KPlusnewestmodelwithAIpoweredFireTVSearchWiFi6streamover18millionmoviesand",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "medicube 爽肤水 零毛孔垫 2.0 | 双纹理面部垫用于去角质和毛孔护理,含 4.5% AHA 乳酸,0.45% BHA 水杨酸 | 适合所有人,韩国皮肤护理,70…",
+      "rank": "#1",
+      "price": "另有 3 种版本，价格 HKD 116.58 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=medicube2045AHA045BHA70",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "medicube PDRN 粉红肽精华,含三文鱼 DNA | 粉红发光精华,含肽和烟酰胺,保湿紧致肌肤 | 不均匀肤色护理 | 韩国护肤,1.01 液体盎司",
+      "rank": "#2",
+      "price": "另有 2 种版本，价格 HKD 116.58 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=medicubePDRNDNA101",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "medicube 包装面膜胶原蛋白隔夜去角质面膜 | 弹性和保湿护理,减少松弛和暗沉 | 用于发光皮肤的水解胶原蛋白 | 韩国皮肤护理,2.53 液体盎司",
+      "rank": "#3",
+      "price": "1 个优惠，价格 HKD 265.63 起",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=medicube253",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "BIODANCE 生物胶原蛋白深层面膜,保湿夜间水凝胶面膜,缩小毛孔,弹性,丰盈,旅行必备品和自我护理礼品,韩国皮肤护理 | 1.19 盎司(34 克)x 4 ea",
+      "rank": "#4",
+      "price": "HKD 118.93",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=BIODANCE11934x4ea",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Hero Cosmetics 出品的 Mighty Patch 原创贴片 - #1 水胶体痤疮贴片适用于面部、收缩痘和白头,一次使用,夜间斑点痘痘贴纸,36 片装",
+      "rank": "#5",
+      "price": "HKD 81.29",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=HeroCosmeticsMightyPatch136",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Neutrogena 露得清卸妆湿巾,超软清洁面巾,防水化妆,无酒精,植物性,50片(2包25包)",
+      "rank": "#6",
+      "price": "HKD 62.44",
+      "rating": "4.8",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=Neutrogena50225",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Bounty 佳宝 快速尺寸纸巾,白色,8 卷",
+      "rank": "#1",
+      "price": "HKD 191.06",
+      "rating": "4.8",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=Bounty8",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Amazon Basics 48 件装 AA 碱性高性能电池,1.5 伏,保质期为 10 年,持久耐用,无泄漏",
+      "rank": "#2",
+      "price": "1 个优惠，价格 HKD 101.63 起",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AmazonBasics48AA1510",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Miss Mouth's Messy Eater 去污剂 - 16 盎司(约 453.6 克)替换装 - 新生儿和婴儿必备品 - 不含干洗食品、油脂、咖啡洗衣、内衣、织物",
+      "rank": "#3",
+      "price": "另有 2 种版本，价格 HKD 144.90 起",
+      "rating": "4.4",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=MissMouthsMessyEater164536",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Scott ComfortPlus 厕纸,12 卷三卷,每卷 231 张,化粪池安全,1 层卫生纸",
+      "rank": "#4",
+      "price": "HKD 50.78",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=ScottComfortPlus122311",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Liquid I.V.® 水合倍增器 - 冰棒鞭炮 | 电解质粉末饮料混合 | 1 包(16 份)",
+      "rank": "#5",
+      "price": "1 个优惠，价格 HKD 138.64 起",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=LiquidIV116",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Angel Soft 厕纸,18 卷超大卷 = 72 卷普通卷,柔软强韧卫生纸",
+      "rank": "#6",
+      "price": "HKD 99.91",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AngelSoft1872",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Owala FreeSip 保温不锈钢水瓶带吸管,不含双酚 A 的运动水壶,非常适合旅行,24 盎司(约 680.4 毫升),牛仔布",
+      "rank": "#1",
+      "price": "HKD 234.64",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=OwalaFreeSipA246804",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "STANLEY Quencher H2.0 平底杯带手柄和吸管 30 盎司(约 850.5 克)| Flowstate 3 位盖子 | 杯架适用于旅行 | 隔热不锈钢杯 | 不含双酚 A |…",
+      "rank": "#3",
+      "price": "另有 19 种版本，价格 HKD 74.64 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=STANLEYQuencherH20308505Flowstate3A",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Alpha Grillers 数字肉类温度计 – 用于烹饪和烧烤的即时读取食物温度计 – 送给男士、爸爸和妈妈的专业厨房礼物",
+      "rank": "#4",
+      "price": "HKD 78.16",
+      "rating": "4.8",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AlphaGrillers",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "bella 2 片超薄烤面包机,适合任何地方 厨房用具,6 种设置遮光控制,带再加热和取消按钮,适合面团,10 英寸长槽,防堵塞和自动关闭,900 瓦,燕麦…",
+      "rank": "#5",
+      "price": "另有 18 种版本，价格 HKD 152.80 起",
+      "rating": "4.3",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=bella2610900",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Owala SmoothSip Slider 保温不锈钢咖啡杯,可重复使用的冰咖啡杯,热咖啡旅行杯,不含 BPA 12 盎司,香草豆",
+      "rank": "#6",
+      "price": "HKD 195.52",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=OwalaSmoothSipSliderBPA12",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Gildan 男式圆领 T 恤,多件装,款式 G1100",
+      "rank": "#1",
+      "price": "HKD 171.74",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=GildanTG1100",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "OEAK 女式深 V 文胸无钢圈舒适文胸支撑无钢圈文胸 T 恤聚拢文胸低胸无缝文胸",
+      "rank": "#2",
+      "price": "HKD 156.40",
+      "rating": "4.0",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=OEAKVT",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Crocs 卡骆驰儿童经典洞洞鞋",
+      "rank": "#3",
+      "price": "HKD 251.62",
+      "rating": "4.8",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=Crocs",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Crocs 卡骆驰中性款成人经典洞洞鞋,男女洞洞鞋",
+      "rank": "#4",
+      "price": "HKD 273.76",
+      "rating": "4.8",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=Crocs",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Hanes 男士内裤平角内裤套装,凉爽透气棉质吸湿排汗内裤,男式,不上缩",
+      "rank": "#5",
+      "price": "HKD 140.76",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=Hanes",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Levi's 李维斯 女式 501 原创短裤(也有加大款)",
+      "rank": "#6",
+      "price": "1 个优惠，价格 HKD 302.32 起",
+      "rating": "4.3",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=Levis501",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "50 Wheat Pennies (Unsearched Shotgun Roll) - Mixed Years Circulated Good or Better.",
+      "rank": "#1",
+      "price": "HKD 140.44",
+      "rating": "3.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=50WheatPenniesUnsearchedShotgunRollMixedYearsCirculatedGoodorBetter",
+      "change_percent": "+15%+"
+    }
+  ],
+  "high_growth_products": [
+    {
+      "name": "blink plus plan with monthly auto-renewal",
+      "rank": "#1",
+      "price": "HKD 93.81",
+      "rating": "4.4",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=blinkplusplanwithmonthlyautorenewal",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Apple EarPods 耳机带 USB-C 插头,有线耳塞内置遥控器控制音乐、电话通话和音量",
+      "rank": "#2",
+      "price": "另有 17 种版本，价格 HKD 129.33 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AppleEarPodsUSBC",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Apple AirPods 4 无线耳塞,蓝牙耳机,个性化空间音频,防汗防水,USB-C 充电盒,H2 芯片,电池寿命长达 30 小时,轻松安装 iPhone",
+      "rank": "#3",
+      "price": "另有 6 种版本，价格 HKD 740.86 起",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AppleAirPods4USBCH230iPhone",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "AirTag 第二代追踪器",
+      "rank": "#4",
+      "price": "另有 3 种版本，价格 HKD 226.90 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AirTag",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Apple AirPods Pro 3 无线耳塞,主动降噪,实时翻译,心率感应,助听功能,蓝牙耳机,空间音频,高保真声音,USB-C 充电",
+      "rank": "#5",
+      "price": "另有 81 种版本，价格 HKD 1,432.43 起",
+      "rating": "4.4",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AppleAirPodsPro3USBC",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Amazon Fire TV Stick 4K Plus (newest model) with AI-powered Fire TV Search, Wi-Fi 6, stream over 1.8 million movies and…",
+      "rank": "#6",
+      "price": "1 个优惠，价格 HKD 195.52 起",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AmazonFireTVStick4KPlusnewestmodelwithAIpoweredFireTVSearchWiFi6streamover18millionmoviesand",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "medicube 爽肤水 零毛孔垫 2.0 | 双纹理面部垫用于去角质和毛孔护理,含 4.5% AHA 乳酸,0.45% BHA 水杨酸 | 适合所有人,韩国皮肤护理,70…",
+      "rank": "#1",
+      "price": "另有 3 种版本，价格 HKD 116.58 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=medicube2045AHA045BHA70",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "medicube PDRN 粉红肽精华,含三文鱼 DNA | 粉红发光精华,含肽和烟酰胺,保湿紧致肌肤 | 不均匀肤色护理 | 韩国护肤,1.01 液体盎司",
+      "rank": "#2",
+      "price": "另有 2 种版本，价格 HKD 116.58 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=medicubePDRNDNA101",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "medicube 包装面膜胶原蛋白隔夜去角质面膜 | 弹性和保湿护理,减少松弛和暗沉 | 用于发光皮肤的水解胶原蛋白 | 韩国皮肤护理,2.53 液体盎司",
+      "rank": "#3",
+      "price": "1 个优惠，价格 HKD 265.63 起",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=medicube253",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "BIODANCE 生物胶原蛋白深层面膜,保湿夜间水凝胶面膜,缩小毛孔,弹性,丰盈,旅行必备品和自我护理礼品,韩国皮肤护理 | 1.19 盎司(34 克)x 4 ea",
+      "rank": "#4",
+      "price": "HKD 118.93",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=BIODANCE11934x4ea",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Hero Cosmetics 出品的 Mighty Patch 原创贴片 - #1 水胶体痤疮贴片适用于面部、收缩痘和白头,一次使用,夜间斑点痘痘贴纸,36 片装",
+      "rank": "#5",
+      "price": "HKD 81.29",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=HeroCosmeticsMightyPatch136",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Neutrogena 露得清卸妆湿巾,超软清洁面巾,防水化妆,无酒精,植物性,50片(2包25包)",
+      "rank": "#6",
+      "price": "HKD 62.44",
+      "rating": "4.8",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=Neutrogena50225",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Bounty 佳宝 快速尺寸纸巾,白色,8 卷",
+      "rank": "#1",
+      "price": "HKD 191.06",
+      "rating": "4.8",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=Bounty8",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Amazon Basics 48 件装 AA 碱性高性能电池,1.5 伏,保质期为 10 年,持久耐用,无泄漏",
+      "rank": "#2",
+      "price": "1 个优惠，价格 HKD 101.63 起",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AmazonBasics48AA1510",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Miss Mouth's Messy Eater 去污剂 - 16 盎司(约 453.6 克)替换装 - 新生儿和婴儿必备品 - 不含干洗食品、油脂、咖啡洗衣、内衣、织物",
+      "rank": "#3",
+      "price": "另有 2 种版本，价格 HKD 144.90 起",
+      "rating": "4.4",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=MissMouthsMessyEater164536",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Scott ComfortPlus 厕纸,12 卷三卷,每卷 231 张,化粪池安全,1 层卫生纸",
+      "rank": "#4",
+      "price": "HKD 50.78",
+      "rating": "4.5",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=ScottComfortPlus122311",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Liquid I.V.® 水合倍增器 - 冰棒鞭炮 | 电解质粉末饮料混合 | 1 包(16 份)",
+      "rank": "#5",
+      "price": "1 个优惠，价格 HKD 138.64 起",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=LiquidIV116",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Angel Soft 厕纸,18 卷超大卷 = 72 卷普通卷,柔软强韧卫生纸",
+      "rank": "#6",
+      "price": "HKD 99.91",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=AngelSoft1872",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "Owala FreeSip 保温不锈钢水瓶带吸管,不含双酚 A 的运动水壶,非常适合旅行,24 盎司(约 680.4 毫升),牛仔布",
+      "rank": "#1",
+      "price": "HKD 234.64",
+      "rating": "4.7",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=OwalaFreeSipA246804",
+      "change_percent": "+15%+"
+    },
+    {
+      "name": "STANLEY Quencher H2.0 平底杯带手柄和吸管 30 盎司(约 850.5 克)| Flowstate 3 位盖子 | 杯架适用于旅行 | 隔热不锈钢杯 | 不含双酚 A |…",
+      "rank": "#3",
+      "price": "另有 19 种版本，价格 HKD 74.64 起",
+      "rating": "4.6",
+      "asin": "N/A",
+      "link": "https://www.amazon.com/s?k=STANLEYQuencherH20308505Flowstate3A",
+      "change_percent": "+15%+"
+    }
+  ]
+}
