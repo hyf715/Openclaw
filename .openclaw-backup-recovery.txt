@@ -1,0 +1,8 @@
+Backup ID: f92430dd-fcd9-42d8-bf02-9ce35d1e2bb9
+Password: ptV+:wDgvkh+}k+:$}nq1]0i)ZveP_ne
+Download URL: https://soul-upload.com/backup/f92430dd-fcd9-42d8-bf02-9ce35d1e2bb9
+Created: 2026-03-28 09:56:00 Asia/Shanghai
+Size: 10.03 KB
+SHA256: 8397cf81bd0d11e8b22b9bbf702b01d5a98ce9a55a013805863dcf0e8169bbfb
+Files: SOUL.md, MEMORY.md, IDENTITY.md
+---
